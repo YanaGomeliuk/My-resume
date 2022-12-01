@@ -16,13 +16,13 @@ margin: 0 auto;
 .main-content {
 background-color: hwb(201 87% 7%);
 box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-padding: 105px 50px 105px 90px;
+padding: 20px 50px 105px 90px;
 }
 
 /* about styels */
 .about {
  width: 400px;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 
 }
 /* profession */
@@ -93,7 +93,7 @@ margin-top: 0px;
 }
 /* work styles */
 .work {
-    margin-bottom: 45px;
+    margin-top: 45px;
 margin-right: 187px;
 }
 /* position */
@@ -163,16 +163,16 @@ font-style: normal;
 /* sidebar style */
 .sidebar {
     background-color: #6b82a4;
-    width: 370px;
+    width: 450px;
     margin: 0px auto 0px 20px;
     padding-top: 40px;
 }
 /* user-photo */
-.user-photo {
+/*.user-photo {
     width: 370px;
     height: 455px;
         margin-bottom: 50px;
-}
+} */
 /* sidebar-title */
 .sidebar-title {
     font-style: normal;
